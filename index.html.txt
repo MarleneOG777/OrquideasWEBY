@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+	<head lang="es">
+		<meta charset="utf-8"/>
+		<title>bloomson's</title>
+	</head>
+		<table width="100%" border="0" cellpadding="10">
+        <tr>
+            	<td width="150" align="right" valign="middle">
+                <img src="imagenes/logo.png" alt="Logo de Blooson's" width="150" height="auto">
+			            </td>
+           </tr>
+    </table>
+		<h1>Blooson's Orquideas</h1>
+
+
+    <table width="100%" border="0">
+        <tr>
+            <td align="center">
+                <h2>¡Bienvenidos a Blooson's!</h2>
+                <h3>Donde aprenderas el cuidado de Orquideas </h3>
+            </td>
+        </tr>
+    </table>
+
+    <table width="100%" border="0">
+        <tr>
+            <td>
+                <p>¡Hola, <b>Jardinero o aficionado a las plantas</b>!</p>
+            </td>
+        </tr>
+    </table>
+
+    <table width="100%" border="0">
+        <tr>
+            <td>
+                <p> Si estas por aqui lo mas seguro es que tengas un problema con una plata o simplemente necesites ayuda para cuidar a una.
+		Bueno no tienes que preocuparte porque aqui en Blooson's te ayudaremos con los mejores tip de cuidado para que tu planta se mantenga saludable y feliz!, adentrate a conocer los diferentes tipos de cuidados y datos que tenemos a nuestra disposicion, sin mas disfruta de nuestro blog</p>
+            </td>
+        </tr>
+    </table>
+<hr>
+
+    
+    <table width="100%" border="0">
+        <tr>
+            <td>
+                <h2>Cuidado de las orquídeas</h2>
+		<table width="100%" border="0" cellpadding="10">
+        		<tr>
+           		 	<td width="150" align="center" valign="middle">
+              			  <img src="imagenes/cuidado.png" width="300" height="300">
+          		  </td>
+          		 </tr>
+    			</table>
+
+		<h3><b>Cómo cuidar orquídeas Phalaenopsis</b></h3>
+		      		<img src="imagenes/orquidea.jpg" width="300" height="auto">
+           
+                <p>Las orquídeas Phalaenopsis destacan por sus flores elegantes y duraderas.
+		Las orquídeas Phalaenopsis, también conocidas como “orquídeas mariposa”, son unas de las plantas de interior más populares gracias a sus flores 		elegantes y duraderas. Con los cuidados adecuados, pueden florecer varias veces al año y convertirse en el centro de atención de cualquier espacio. En 		Flores.Guru te compartimos consejos prácticos para mantenerlas saludables y hermosas.</p>
+            </td>
+        </tr>
+    </table>
+
+    <table width="100%" border="1">
+        <tr>
+            <td>
+                    <ol>
+                    <li><h2> Luz adecuada</h2></li>
+			<p>La Phalaenopsis necesita luz brillante pero indirecta. Evita el sol directo, ya que puede quemar sus hojas. Un lugar ideal es cerca de una ventana orientada al este o al sur con una cortina ligera.</p>
+                    <li><h2>Riego moderado</h2></li>
+			<p>El riego es clave. Riégala una vez por semana en invierno y hasta dos veces en verano, dependiendo de la humedad ambiental. Asegúrate de que el agua drene bien, ya que las raíces no deben permanecer encharcadas.</p>
+                    <li><h2>Humedad ambiental</h2></li>
+			<p>La Phalaenopsis disfruta de ambientes húmedos. Puedes colocar un plato con agua y piedras bajo la maceta (sin que toque las raíces) o agrupar varias plantas para generar microclima.</p>
+			<li><h2>Fertilización</h2></li>
+			<p>Durante la época de crecimiento (primavera y verano), fertiliza cada 15 días con un abono balanceado para orquídeas diluido a la mitad de la dosis recomendada.</p>
+			<li><h2>Trasplante</h2></li>
+			<p>Es recomendable trasplantar la orquídea cada 2 o 3 años, cuando el sustrato se degrade. Usa corteza de pino especial para orquídeas y una maceta transparente que permita observar las raíces.</p>
+			<li><h2>Cuidados después de la floración</h2></li>
+			<p>Cuando la vara floral termine de florecer, puedes cortarla justo por encima del tercer nudo para estimular una nueva floración, o cortarla desde la base para que la planta descanse y tome fuerza para el siguiente ciclo.</p>
+
+        </td>
+        </tr>
+    </table>
+		<img src="imagenes/morado.jpg" width="300" height="auto">
+		<p>Las raíces de la Phalaenopsis deben mantenerse aireadas y nunca encharcadas.</p>
+
+    <table width="100%" border="0">
+        <tr>
+            <td>
+                <h1>Conclusion</h1>
+		<p>Cuidar de una orquídea Phalaenopsis no es complicado: con la luz adecuada, riego moderado y un poco de atención, estas plantas pueden florecer varias veces al año y llenar tu hogar de elegancia. Si buscas una opción lista para regalar o disfrutar</p>
+            </td>
+        </tr>
+    </table>
+
+    
+<table width="100%" border="1" cellpadding="10">
+    <tr>
+        <td><h1>Referencias</h1></td>
+    </tr>
+    <tr>
+        <td>
+            <h2><a href="https://www.planteaenverde.es/blog/cuidados-de-la-orquidea-la-guia-completa/" target="_blank">Página de Referencia de donde saqué las cosas</a></h2>
+        </td>
+    </tr>
+    </table>
+
+	<p>Video<p>
+ 		<video controls width="500" height="200">
+			<source src= "Video/orquideas.mp4" type="video/mp4">
+			Formato de video no soportado
+			</video>
+			<audio controls src="Audio/magic.mp3">
+	
+	</audio>
+
+			<p><h2><b>Autor:</h2></b></p> <p>Marlene Gudalupe Ortega Godoy</p>
+	<body>
+	</body>
+</html>
