@@ -2,6 +2,11 @@
 <html>
 	<head lang="es">
 		<meta charset="utf-8"/>
+		<style type="text/css">
+		body{
+			background-color: #e6d6e7}
+			h2{color:gray}
+		</style>
 		<title>bloomson's</title>
 	</head>
 		<table width="100%" border="0" cellpadding="10">
@@ -115,6 +120,64 @@
 			<audio controls src="Audio/magic.mp3">
 	
 	</audio>
+
+		<form action="#" method="post">
+		<p>Nombre:<input type="text" name:"nombre"></p>
+		<p>Apellido paterno:<input type="text" name:"AP" size="15" maxlength="15"></p>
+		<p>Apellido materno:<input type="text" name:"AM" size="15" maxlength="15"></p>
+		<p>Selecciona tu edad:<input type="number" name:="Edad" min="15" max="100" plaseholder=></p>
+
+		<p>Localidad:<input type="text" name:"localidad" size="18" minlength"2"></p>
+		<p>sexo:hombre<input type="radio" name:"sexo" value="h"></p>
+		<p>Mujer<input type="radio" name:"sexo" value="m"></p>
+		  otro:<input type="radio" name:"sexo" value="otro">
+		<p>Email:<input type="email" name:"correo" multiple>
+		<p>Escribe tus comentarios:
+			<p><textarea id="comentarios" name="comentarios" rows="4" cols="50"
+				placeholder="Escribe aqui...">
+			</textarea></p>
+		<!--Boton de enviar-->
+		<hr>
+		<p><input type="submit" value:"enviar"></p>
+		<!--Boton de borrar-->
+		<p><button type="reset">Borrar datos</button></p>
+	  </form>
+
+		<h1>Deseamos conocer tu opinion</h1>
+	<form action="#" method="post">
+		<p>Nombre y apellidos:
+		<input
+		type="text"
+		id="nombre"
+		name="nombre"
+		placeholder="Escribe aqui tu nombre y apellido"
+		required
+		minlength="3"
+		maxlength="50"
+		patter="[A-Za-zÀ-ÿ\s]+"
+		title="El nombre solo debe contener letras y espacios."
+		></p>
+	<p>Email:<input type="email" id="email" name:"correo" required></p>
+
+		<p>Escribe tus opiniones o  comentarios: (Maximo 500 caracteres)...</p>
+			<p><textarea
+				required 
+			id="comentarios" 
+			name="comentarios"
+			rows="5" cols="60"
+			placeholder="Escribe aqui tus comentarios(Maximo 500 caracteres)...">
+
+	</textarea>
+	<hr>
+
+		<!--Boton enviar-->
+		<p><input type="submit" value:"enviar"></p>
+
+		<!--Boton borrar-->
+		<p><button type="reset">Borrar datos</button></p>
+
+	  </form>		
+
 
 			<p><h2><b>Autor:</h2></b></p> <p>Marlene Gudalupe Ortega Godoy</p>
 	<body>
